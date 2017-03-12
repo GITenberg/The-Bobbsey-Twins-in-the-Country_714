@@ -1,5 +1,8 @@
 _repo: The-Bobbsey-Twins-in-the-Country_714
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hope, Laura Lee
@@ -9,6 +12,8 @@ creator:
 description: The Bobbsey twins visit Meadow Brook, the country home of their cousin
   Harry. While there they meet a frisky calf, celebrate Independence Day, and attend
   the circus.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/714#The-Bobbsey-Twins-in-the-Country
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
